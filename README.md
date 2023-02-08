@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-css-html-61WnnQqv1j)
 - Live Site URL: [Github Pages](https://kynur.github.io/frontendmentor-qr-code-component/)
 
 ## My process
@@ -38,7 +38,7 @@ Practiced using flexbox
 
 ### Continued development
 
-Continue using [Frontend Mentor](https://www.frontendmentor.io/) to improve my Front-End skills by building projects.
+Continue using [Frontend Mentor](https://www.frontendmentor.io/) to improve my Frontend skills by building projects.
 
 ## Author
 
